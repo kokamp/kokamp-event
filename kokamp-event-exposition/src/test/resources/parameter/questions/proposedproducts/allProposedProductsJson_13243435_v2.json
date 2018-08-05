@@ -1,0 +1,240 @@
+{
+  "version":"v2",
+
+  "propositions":
+[ {
+  "answerId" : "ANSW0001",
+  "propositionProducts" : [ "PROD0001" ]
+}, {
+  "answerId" : "ANSW0002",
+  "propositionProducts" : [ "PROD0002" ]
+}, {
+  "answerId" : "ANSW0003",
+  "propositionProducts" : [ "PROD0003" ]
+}, {
+  "answerId" : "ANSW0004",
+  "propositionProducts" : [ "PROD0004", "PROD0005" ]
+}, {
+  "answerId" : "ANSW0005",
+  "propositionProducts" : [ "PROD0006" ]
+}, {
+  "answerId" : "ANSW0006",
+  "propositionProducts" : [ "PROD0007" ]
+}, {
+  "answerId" : "ANSW0007",
+  "propositionProducts" : [ "PROD0008" ]
+}, {
+  "answerId" : "ANSW0008",
+  "propositionProducts" : [ "PROD0009", "PROD0010" ]
+}, {
+  "answerId" : "ANSW0009",
+  "propositionProducts" : [ "NOTE0001" ]
+}, {
+  "answerId" : "ANSW0010",
+  "propositionProducts" : [ "PROD0011", "PROD0012", "PROD0013", "PROD0014", "PROD0015", "PROD0016", "PROD0017" ]
+}, {
+  "answerId" : "ANSW0011",
+  "propositionProducts" : [ "PROD0018", "PROD0019", "PROD0020", "PROD0021", "PROD0022" ]
+}, {
+  "answerId" : "ANSW0012",
+  "propositionProducts" : [ "PROD0023", "PROD0024", "PROD0025", "PROD0026", "PROD0027", "PROD0028" ]
+}, {
+  "answerId" : "ANSW0013",
+  "propositionProducts" : [ "PROD0029", "PROD0030", "PROD0031", "PROD0032", "PROD0033", "PROD0034" ]
+}, {
+  "answerId" : "ANSW0014",
+  "propositionProducts" : [ "PROD0035", "PROD0036", "PROD0037", "PROD0038", "PROD0039", "PROD0040" ]
+}, {
+  "answerId" : "ANSW0015",
+  "propositionProducts" : [ "NOTE0002" ]
+}, {
+  "answerId" : "ANSW0016",
+  "propositionProducts" : [ "PROD0041", "PROD0042", "PROD0043", "PROD0044", "PROD0045", "PROD0046" ]
+}, {
+  "answerId" : "ANSW0017",
+  "propositionProducts" : [ "NOTE0003" ]
+}, {
+  "answerId" : "ANSW0018",
+  "propositionProducts" : [ "PROD0047", "PROD0048", "PROD0049", "PROD0050", "PROD0051", "PROD0052" ]
+}, {
+  "answerId" : "ANSW0019",
+  "propositionProducts" : [ "NOTE0004" ]
+}, {
+  "answerId" : "ANSW0020",
+  "propositionProducts" : [ "PROD0053", "PROD0054", "PROD0055", "PROD0056", "PROD0057", "PROD0058" ]
+}, {
+  "answerId" : "ANSW0021",
+  "propositionProducts" : [ "NOTE0005" ]
+}, {
+  "answerId" : "ANSW0022",
+  "propositionProducts" : [ "PROD0059", "PROD0060", "PROD0061", "PROD0062" ]
+}, {
+  "answerId" : "ANSW0023",
+  "propositionProducts" : [ "PROD0063", "PROD0064", "PROD0065" ]
+}, {
+  "answerId" : "ANSW0024",
+  "propositionProducts" : [ "PROD0066", "PROD0067" ]
+}, {
+  "answerId" : "ANSW0025",
+  "propositionProducts" : [ "PROD0068", "PROD0069", "PROD0070", "PROD0071", "PROD0072", "PROD0073", "PROD0074", "PROD0075" ]
+}, {
+  "answerId" : "ANSW0026",
+  "propositionProducts" : [ "PROD0076", "PROD0077", "PROD0078", "PROD0079", "PROD0080", "PROD0081", "PROD0082", "PROD0083" ]
+}, {
+  "answerId" : "ANSW0027",
+  "propositionProducts" : [ "PROD0084", "PROD0085", "PROD0086", "PROD0087", "PROD0088", "PROD0089", "PROD0090", "PROD0091" ]
+}, {
+  "answerId" : "ANSW0028",
+  "propositionProducts" : [ "PROD0092", "PROD0093", "PROD0094", "PROD0095", "PROD0096", "PROD0097", "PROD0098", "PROD0099" ]
+}, {
+  "answerId" : "ANSW0029",
+  "propositionProducts" : [ "PROD0100", "PROD0101", "PROD0102", "PROD0103", "PROD0104", "PROD0105", "PROD0106", "PROD0107" ]
+}, {
+  "answerId" : "ANSW0030",
+  "propositionProducts" : [ "PROD0108", "PROD0109", "PROD0110", "PROD0111", "PROD0112", "PROD0113", "PROD0114", "PROD0115" ]
+}, {
+  "answerId" : "ANSW0031",
+  "propositionProducts" : [ "PROD0116", "PROD0117", "PROD0118", "PROD0119", "PROD0120", "PROD0121", "PROD0122", "PROD0123" ]
+}, {
+  "answerId" : "ANSW0032",
+  "propositionProducts" : [ "PROD0124", "PROD0125", "PROD0126", "PROD0127", "PROD0128", "PROD0129", "PROD0130", "PROD0131" ]
+}, {
+  "answerId" : "ANSW0033",
+  "propositionProducts" : [ "PROD0132", "PROD0133", "PROD0134", "PROD0135", "PROD0136", "PROD0137", "PROD0138", "PROD0139" ]
+}, {
+  "answerId" : "ANSW0034",
+  "propositionProducts" : [ "PROD0140", "PROD0141", "PROD0142", "PROD0143", "PROD0144", "PROD0145", "PROD0146", "PROD0147" ]
+}, {
+  "answerId" : "ANSW0035",
+  "propositionProducts" : [ "PROD0148", "PROD0149", "PROD0150", "PROD0151", "PROD0152", "PROD0153", "PROD0154", "PROD0155" ]
+}, {
+  "answerId" : "ANSW0036",
+  "propositionProducts" : [ "PROD0156", "PROD0157", "PROD0158", "PROD0159", "PROD0160", "PROD0161", "PROD0162", "PROD0163" ]
+}, {
+  "answerId" : "ANSW0037",
+  "propositionProducts" : [ "PROD0164", "PROD0165", "PROD0166", "PROD0167", "PROD0168", "PROD0169", "PROD0170", "PROD0171" ]
+}, {
+  "answerId" : "ANSW0038",
+  "propositionProducts" : [ "NOTE0006" ]
+}, {
+  "answerId" : "ANSW0039",
+  "propositionProducts" : [ "NOTE0007" ]
+}, {
+  "answerId" : "ANSW0040",
+  "propositionProducts" : [ "PROD0172", "PROD0173", "PROD0174", "PROD0175", "PROD0176", "PROD0177", "PROD0178" ]
+}, {
+  "answerId" : "ANSW0041",
+  "propositionProducts" : [ "PROD0179", "PROD0180", "PROD0181", "PROD0182", "PROD0183", "PROD0184", "PROD0185" ]
+}, {
+  "answerId" : "ANSW0042",
+  "propositionProducts" : [ "PROD0186", "PROD0187", "PROD0188", "PROD0189", "PROD0190", "PROD0191", "PROD0192" ]
+}, {
+  "answerId" : "ANSW0043",
+  "propositionProducts" : [ "PROD0193", "PROD0194", "PROD0195", "PROD0196", "PROD0197", "PROD0198", "PROD0199" ]
+}, {
+  "answerId" : "ANSW0044",
+  "propositionProducts" : [ "NOTE0008" ]
+}, {
+  "answerId" : "ANSW0045",
+  "propositionProducts" : [ "NOTE0009" ]
+}, {
+  "answerId" : "ANSW0046",
+  "propositionProducts" : [ "PROD0200", "PROD0201", "PROD0202", "PROD0203", "PROD0204", "PROD0205" ]
+}, {
+  "answerId" : "ANSW0047",
+  "propositionProducts" : [ "PROD0206", "PROD0207", "PROD0208", "PROD0209", "PROD0210", "PROD0211" ]
+}, {
+  "answerId" : "ANSW0048",
+  "propositionProducts" : [ "PROD0212", "PROD0213", "PROD0214", "PROD0215", "PROD0216", "PROD0217" ]
+}, {
+  "answerId" : "ANSW0049",
+  "propositionProducts" : [ "PROD0218", "PROD0219", "PROD0220", "PROD0221", "PROD0222", "PROD0223" ]
+}, {
+  "answerId" : "ANSW0050",
+  "propositionProducts" : [ "PROD0224", "PROD0225", "PROD0226", "PROD0227", "PROD0228", "PROD0229" ]
+}, {
+  "answerId" : "ANSW0051",
+  "propositionProducts" : [ "NOTE0010" ]
+}, {
+  "answerId" : "ANSW0052",
+  "propositionProducts" : [ "PROD0230", "PROD0231", "PROD0232", "PROD0233", "PROD0234", "PROD0235" ]
+}, {
+  "answerId" : "ANSW0053",
+  "propositionProducts" : [ "NOTE0011" ]
+}, {
+  "answerId" : "ANSW0054",
+  "propositionProducts" : [ "PROD0236", "PROD0237", "PROD0238", "PROD0239", "PROD0240", "PROD0241" ]
+}, {
+  "answerId" : "ANSW0055",
+  "propositionProducts" : [ "NOTE0012" ]
+}, {
+  "answerId" : "ANSW0056",
+  "propositionProducts" : [ "PROD0242", "PROD0243", "PROD0244", "PROD0245", "PROD0246", "PROD0247" ]
+}, {
+  "answerId" : "ANSW0057",
+  "propositionProducts" : [ "NOTE0013" ]
+}, {
+  "answerId" : "ANSW0058",
+  "propositionProducts" : [ "NOTE0014" ]
+}, {
+  "answerId" : "ANSW0059",
+  "propositionProducts" : [ "NOTE0015" ]
+}, {
+  "answerId" : "ANSW0060",
+  "propositionProducts" : [ "PROD0248", "PROD0249", "PROD0250", "PROD0251", "PROD0252", "PROD0253", "PROD0254" ]
+}, {
+  "answerId" : "ANSW0061",
+  "propositionProducts" : [ "PROD0255", "PROD0256", "PROD0257", "PROD0258", "PROD0259", "PROD0260", "PROD0261" ]
+}, {
+  "answerId" : "ANSW0062",
+  "propositionProducts" : [ "PROD0262", "PROD0263", "PROD0264", "PROD0265", "PROD0266", "PROD0267", "PROD0268" ]
+}, {
+  "answerId" : "ANSW0063",
+  "propositionProducts" : [ "PROD0269", "PROD0270", "PROD0271", "PROD0272", "PROD0273", "PROD0274", "PROD0275" ]
+}, {
+  "answerId" : "ANSW0064",
+  "propositionProducts" : [ "NOTE0016" ]
+}, {
+  "answerId" : "ANSW0065",
+  "propositionProducts" : [ "NOTE0017" ]
+}, {
+  "answerId" : "ANSW0066",
+  "propositionProducts" : [ "PROD0276", "PROD0277", "PROD0278", "PROD0279", "PROD0280", "PROD0281" ]
+}, {
+  "answerId" : "ANSW0067",
+  "propositionProducts" : [ "PROD0282" ]
+}, {
+  "answerId" : "ANSW0068",
+  "propositionProducts" : [ "PROD0283", "PROD0284", "PROD0285", "PROD0286", "PROD0287", "PROD0288", "PROD0289" ]
+}, {
+  "answerId" : "ANSW0069",
+  "propositionProducts" : [ "PROD0290", "PROD0291", "PROD0292", "PROD0293", "PROD0294", "PROD0295" ]
+}, {
+  "answerId" : "ANSW0070",
+  "propositionProducts" : [ "PROD0296", "PROD0297", "PROD0298", "PROD0299", "PROD0300", "PROD0301", "PROD0302" ]
+}, {
+  "answerId" : "ANSW0071",
+  "propositionProducts" : [ "PROD0303", "PROD0304", "PROD0305", "PROD0306", "PROD0307", "PROD0308", "PROD0309" ]
+}, {
+  "answerId" : "ANSW0072",
+  "propositionProducts" : [ "PROD0310", "PROD0311", "PROD0312", "PROD0313", "PROD0314", "PROD0315" ]
+}, {
+  "answerId" : "ANSW0073",
+  "propositionProducts" : [ "PROD0316", "PROD0317", "PROD0318", "PROD0319", "PROD0320", "PROD0321", "PROD0322" ]
+}, {
+  "answerId" : "ANSW0074",
+  "propositionProducts" : [ "PROD0323", "PROD0324", "PROD0325", "PROD0326", "PROD0327", "PROD0328", "PROD0329" ]
+}, {
+  "answerId" : "ANSW0075",
+  "propositionProducts" : [ "PROD0330", "PROD0331", "PROD0332", "PROD0333", "PROD0334", "PROD0335", "PROD0336" ]
+}, {
+  "answerId" : "ANSW0076",
+  "propositionProducts" : [ "PROD0337" ]
+}, {
+  "answerId" : "ANSW0077",
+  "propositionProducts" : [ "PROD0338" ]
+}, {
+  "answerId" : "ANSW0078",
+  "propositionProducts" : [ "PROD0339" ]
+} ]
+}

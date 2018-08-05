@@ -1,0 +1,9 @@
+com/kokamp/event/domain/entity/AddressType.class
+com/kokamp/event/domain/entity/EventEntity.class
+com/kokamp/event/domain/entity/Location.class
+com/kokamp/event/domain/repository/EventRepository.class
+com/kokamp/event/domain/entity/OfferType.class
+com/kokamp/event/domain/entity/Organiser.class
+com/kokamp/event/domain/entity/LocationType.class
+com/kokamp/event/domain/entity/Offer.class
+com/kokamp/event/domain/entity/Address.class
